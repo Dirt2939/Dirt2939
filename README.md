@@ -3,8 +3,6 @@
 <p aling="center">💻 Estudando desenvolvimento web </p>
 <p>🚀 Evoluindo um pouco todo dia</p>
 
----
-
 ## 📊 Estatísticas
 
 <p align="center">
@@ -12,8 +10,6 @@
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dirt2939&layout=compact&theme=tokyonight"/>
 </p>
-
----
 
 ## ⚡ Tecnologias
 
@@ -26,23 +22,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 </p>
 
----
-
 ## 📈 Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Dirt2939&theme=tokyonight"/>
 </p>
 
----
-
 ## 🧠 Sobre mim
 
 - 🧩 Gosto de codar escutando música
 - ⚙️ Explorando JavaScript
 - 📈 Sempre tentando melhorar lógica e clean code  
-
----
 
 ## 💬 Filosofia
 

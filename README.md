@@ -38,7 +38,7 @@
 
 ## 🧠 Sobre mim
 
-- 🧩 Curto resolver problemas com código  
+- 🧩 Gosto de codar escutando música
 - ⚙️ Explorando JavaScript
 - 📈 Sempre tentando melhorar lógica e clean code  
 

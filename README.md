@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0f1a,25:312e81,55:6d28d9,80:7c3aed,100:1e1b4b&text=Rafael%20Hunemeier&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Desenvolvimento%20Full%20Stack%20%7C%20Java%20%7C%20APIs%20%7C%20Engenharia%20de%20Software&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0f1a,25:312e81,55:6d28d9,80:7c3aed,100:1e1b4b&text=Rafael%20Hunemeier&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%7C%20Java%20%7C%20APIs%20%7C%20Engenharia%20de%20Software&descAlignY=58&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=1000&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+em+formacao+com+foco+em+Full+Stack;Projetos+com+Java%2C+TypeScript%2C+APIs+e+interfaces+web;Construindo+solucoes+com+clareza%2C+estrutura+e+boa+experiencia" alt="Typing SVG" />
 

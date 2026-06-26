@@ -279,14 +279,6 @@ Tenho desenvolvido projetos voltados a estudo e prática profissional, explorand
 
 ---
 
-# Troféus GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dirt2939&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" />
-</div>
-
----
-
 # Foco Atual
 
 <div align="center">

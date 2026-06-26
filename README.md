@@ -13,10 +13,10 @@
 
 <br/><br/>
 
-<a href="rafaelhunemeier.vercel.app" target="_blank">
+<a href="https://rafaelhunemeier.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="[https://www.linkedin.com/in/rafael-hune](https://www.linkedin.com/in/rafael-hune-8329882bb/)" target="_blank">
+<a href="https://www.linkedin.com/in/rafael-hune-8329882bb/ target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-1f2937?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:rafaelhunemeier@gmail.com" target="_blank">
@@ -311,10 +311,10 @@ Tenho desenvolvido projetos voltados a estudo e prática profissional, explorand
 
 <div align="center">
 
-<a href="rafaelhunemeier.vercel.app" target="_blank">
+<a href="https://rafaelhunemeier.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="[https://www.linkedin.com/in/rafael-hune](https://www.linkedin.com/in/rafael-hune-8329882bb/)" target="_blank">
+<a href="https://www.linkedin.com/in/rafael-hune-8329882bb/ target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-1f2937?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:rafaelhunemeier@gmail.com" target="_blank">

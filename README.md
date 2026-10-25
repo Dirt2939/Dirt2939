@@ -2,7 +2,7 @@
 
 # Rafael Hunemeier
 
-Estudante de Engenharia de Software · Full Stack · Java · APIs REST
+Estudante de TI · Full Stack · Java · APIs REST
 
 [Portfólio](https://rafaelhunemeier.vercel.app) · [LinkedIn](https://www.linkedin.com/in/rafael-hune-8329882bb/) · [Email](mailto:rafaelhunemeier@gmail.com)
 
